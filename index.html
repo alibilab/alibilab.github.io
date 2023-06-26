@@ -22,12 +22,51 @@
             margin: 0;
         }
 
+        nav {
+            background-color: #555;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
         main {
             padding: 20px;
         }
 
         p {
             line-height: 1.5;
+        }
+
+        .news {
+            background-color: #f0f0f0;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .publications {
+            background-color: #f0f0f0;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .publications h3 {
+            margin-top: 0;
+        }
+
+        .publications ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        .publications ul li {
+            margin-bottom: 10px;
         }
 
         footer {
@@ -43,32 +82,45 @@
         <h1>Alibilab</h1>
         <p>Bioinformatics and Machine Learning Research Lab</p>
     </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="projects.html">Projects</a>
+        <a href="publications.html">Publications</a>
+        <a href="contact.html">Contact</a>
+    </nav>
     
     <main>
         <h2>About Us</h2>
         <p>Welcome to Alibilab, a research lab specializing in bioinformatics and machine learning. We strive to advance the field of computational biology through innovative research and cutting-edge technologies.</p>
         
-        <h2>Research Areas</h2>
-        <ul>
-            <li>Bioinformatics</li>
-            <li>Genomics</li>
-            <li>Proteomics</li>
-            <li>Machine Learning</li>
-            <li>Data Mining</li>
-            <li>Artificial Intelligence</li>
-        </ul>
+        <h2>News</h2>
+        <div class="news">
+            <h3>Exciting Announcement!</h3>
+            <p>We are thrilled to announce the launch of our new research project on protein folding prediction. Stay tuned for updates and groundbreaking results!</p>
+        </div>
         
-        <h2>Projects</h2>
-        <p>Our lab is involved in various projects that aim to tackle challenging problems in bioinformatics and leverage the power of machine learning algorithms. We are actively engaged in developing novel computational methods for sequence analysis, protein structure prediction, and biological data mining.</p>
-        
-        <h2>Contact Us</h2>
-        <p>If you have any inquiries or collaboration opportunities, please feel free to contact us:</p>
-        <p>Email: contact@alibilab.com</p>
-        <p>Phone: +1 123-456-7890</p>
-    </main>
+        <h2>Publications</h2>
+        <div class="publications">
+            <h3>Conference Papers</h3>
+            <ul>
+                <li>1. Title of Conference Paper 1</li>
+                <li>2. Title of Conference Paper 2</li>
+                <li>3. Title of Conference Paper 3</li>
+            </ul>
+        </div>
 
-    <footer>
-        <p>&copy; 2023 Alibilab. All rights reserved.</p>
-    </footer>
+        <div class="publications">
+            <h3>Journal Papers</h3>
+            <ul>
+                <li>1. Title of Journal Paper 1</li>
+                <li>2. Title of Journal Paper 2</li>
+                <li>3. Title of Journal Paper 3</li>
+</ul>
+</div>
+</main>
+<footer>
+    <p>&copy; 2023 Alibilab. All rights reserved.</p>
+</footer>
 </body>
 </html>
