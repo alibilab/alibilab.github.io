@@ -75,6 +75,33 @@
             padding: 10px;
             text-align: center;
         }
+        
+        .advisor {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .advisor-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-right: 20px;
+        }
+
+        .advisor-info {
+            flex-grow: 1;
+        }
+
+        .advisor-name {
+            font-size: 24px;
+            margin: 0;
+        }
+
+        .advisor-description {
+            font-size: 16px;
+        }
     </style>
 </head>
 <body>
@@ -94,31 +121,40 @@
         <h2>About Us</h2>
         <p>Welcome to Alibilab, a research lab specializing in bioinformatics and machine learning. We strive to advance the field of computational biology through innovative research and cutting-edge technologies.</p>
         
-        <h2>News</h2>
-        <div class="news">
-            <h3>Exciting Announcement!</h3>
-            <p>We are thrilled to announce the launch of our new research project on protein folding prediction. Stay tuned for updates and groundbreaking results!</p>
+        <div class="advisor">
+            <img src="advisor.jpg" alt="Advisor Image" class="advisor-image">
+            <div class="advisor-info">
+                <h3 class="advisor-name">Advisor Name</h3>
+                <p class="advisor-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec tortor non leo tristique rutrum. Donec id massa sit amet dolor
+</p>
+            </div>
         </div>
-        
-        <h2>Publications</h2>
-        <div class="publications">
-            <h3>Conference Papers</h3>
-            <ul>
-                <li>1. Title of Conference Paper 1</li>
-                <li>2. Title of Conference Paper 2</li>
-                <li>3. Title of Conference Paper 3</li>
-            </ul>
-        </div>
+    <h2>News</h2>
+    <div class="news">
+        <h3>Exciting Announcement!</h3>
+        <p>We are thrilled to announce the launch of our new research project on protein folding prediction. Stay tuned for updates and groundbreaking results!</p>
+    </div>
+    
+    <h2>Publications</h2>
+    <div class="publications">
+        <h3>Conference Papers</h3>
+        <ul>
+            <li>1. Title of Conference Paper 1</li>
+            <li>2. Title of Conference Paper 2</li>
+            <li>3. Title of Conference Paper 3</li>
+        </ul>
+    </div>
 
-        <div class="publications">
-            <h3>Journal Papers</h3>
-            <ul>
-                <li>1. Title of Journal Paper 1</li>
-                <li>2. Title of Journal Paper 2</li>
-                <li>3. Title of Journal Paper 3</li>
-</ul>
-</div>
+    <div class="publications">
+        <h3>Journal Papers</h3>
+        <ul>
+            <li>1. Title of Journal Paper 1</li>
+            <li>2. Title of Journal Paper 2</li>
+            <li>3. Title of Journal Paper 3</li>
+        </ul>
+    </div>
 </main>
+
 <footer>
     <p>&copy; 2023 Alibilab. All rights reserved.</p>
 </footer>
