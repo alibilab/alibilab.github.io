@@ -5,15 +5,84 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alibilab - Research Lab</title>
     <style>
-        /* ... (Previous styles) ... */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
 
-        .lab-member {
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        nav {
+            background-color: #555;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        p {
+            line-height: 1.5;
+        }
+
+        .news {
+            background-color: #f0f0f0;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .publications {
+            background-color: #f0f0f0;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .publications h3 {
+            margin-top: 0;
+        }
+
+        .publications ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        .publications ul li {
+            margin-bottom: 10px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        .advisor {
             display: flex;
             align-items: center;
             margin-bottom: 20px;
         }
 
-        .student-image {
+        .advisor-image {
             width: 150px;
             height: 150px;
             border-radius: 50%;
@@ -21,25 +90,17 @@
             margin-right: 20px;
         }
 
-        .student-info {
+        .advisor-info {
             flex-grow: 1;
         }
 
-        .student-description {
-            font-size: 16px;
-            line-height: 1.5;
+        .advisor-name {
+            font-size: 24px;
             margin: 0;
         }
 
-        .social-media {
-            display: flex;
-            margin-top: 10px;
-        }
-
-        .social-media img {
-            width: 25px;
-            height: 25px;
-            margin-right: 10px;
+        .advisor-description {
+            font-size: 16px;
         }
     </style>
 </head>
@@ -55,45 +116,46 @@
         <a href="publications.html">Publications</a>
         <a href="contact.html">Contact</a>
     </nav>
-
+    
     <main>
+        
         <div class="advisor">
             <img src="images/murray.jpg" alt="Advisor Image" class="advisor-image">
             <div class="advisor-info">
                 <h3 class="advisor-name">Advisor Name</h3>
-                <p class="advisor-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec tortor non leo tristique rutrum. Donec id massa sit amet dolor.</p>
+                <p class="advisor-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec tortor non leo tristique rutrum. Donec id massa sit amet dolor
+				</p>
             </div>
         </div>
-
-        <h2>About Us</h2>
+		<h2>About Us</h2>
         <p>Welcome to Alibilab, a research lab specializing in bioinformatics and machine learning. We strive to advance the field of computational biology through innovative research and cutting-edge technologies.</p>
+        
+    <h2>News</h2>
+    <div class="news">
+        <h3>Exciting Announcement!</h3>
+        <p>We are thrilled to announce the launch of our new research project on protein folding prediction. Stay tuned for updates and groundbreaking results!</p>
+    </div>
+    
+    <h2>Publications</h2>
+    <div class="publications">
+        <h3>Conference Papers</h3>
+        <ul>
+            <li>1. Title of Conference Paper 1</li>
+            <li>2. Title of Conference Paper 2</li>
+            <li>3. Title of Conference Paper 3</li>
+        </ul>
+    </div>
 
-        <h2>News</h2>
-        <div class="news">
-            <h3>Exciting Announcement!</h3>
-            <p>We are thrilled to announce the launch of our new research project on protein folding prediction. Stay tuned for updates and groundbreaking results!</p>
-        </div>
-
-        <h2>Publications</h2>
-        <div class="publications">
-            <h3>Conference Papers</h3>
-            <ul>
-                <li>1. Title of Conference Paper 1</li>
-                <li>2. Title of Conference Paper 2</li>
-                <li>3. Title of Conference Paper 3</li>
-            </ul>
-        </div>
-
-        <div class="publications">
-            <h3>Journal Papers</h3>
-            <ul>
-                <li>1. Title of Journal Paper 1</li>
-                <li>2. Title of Journal Paper 2</li>
-                <li>3. Title of Journal Paper 3</li>
-            </ul>
-        </div>
-
-        <!-- Lab Members Section -->
+    <div class="publications">
+        <h3>Journal Papers</h3>
+        <ul>
+            <li>1. Title of Journal Paper 1</li>
+            <li>2. Title of Journal Paper 2</li>
+            <li>3. Title of Journal Paper 3</li>
+        </ul>
+    </div>
+	
+	<!-- Lab Members Section -->
         <section>
             <h2>Lab Members</h2>
 
@@ -123,10 +185,11 @@
             <!-- Repeat the above lab member row structure for the remaining 4 students -->
 
         </section>
-    </main>
+		
+</main>
 
-    <footer>
-        <p>&copy; 2023 Alibilab. All rights reserved.</p>
-    </footer>
+<footer>
+    <p>&copy; 2023 Alibilab. All rights reserved.</p>
+</footer>
 </body>
 </html>
