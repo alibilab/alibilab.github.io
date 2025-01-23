@@ -16,6 +16,12 @@
   url: avais
   group: 1
 
+- name: Ezekiel A. Adeniyi
+  photo: ezekiel.jpg
+  info: Ph.D. Student
+  # url: ezekiel
+  group: 1
+
 - name: Mansoor Ahmed
   photo: mansoor.jpg
   info: Ph.D. Student
@@ -37,10 +43,10 @@
   group: 2
   # year: 2019-2024
 
-- name: Zara Tayebi
-  photo: zara.jpg
+- name: Zahra Tayebi
+  photo: zahra.jpg
   info: Lecturer at Georgia State University
-  url: zara
+  url: zahra
   group: 2
   # year: 2020-2024
 
