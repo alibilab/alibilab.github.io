@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - About"
+title: "Algorithmic Biology Lab - About"
 layout: textlay
-excerpt: "Allan Lab -- About"
+excerpt: "Algorithmic Biology Lab -- About"
 sitemap: false
 permalink: /about/
 ---

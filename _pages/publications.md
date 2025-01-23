@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Publications"
+title: "Algorithmic Biology Lab - Publications"
 layout: gridlay
-excerpt: "Sanders Lab -- Publications."
+excerpt: "Algorithmic Biology Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

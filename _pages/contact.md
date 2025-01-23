@@ -1,5 +1,5 @@
 ---
-title: "Sanders Lab - Contact"
+title: "Algorithmic Biology Lab - Contact"
 layout: textlay
 excerpt: "Contact."
 sitemap: false
@@ -10,7 +10,7 @@ permalink: /contact/
 
 ## Lab Location
 
-Sanders Lab is in the Weill Neuroscience Building of the UCSF Mission Bay Campus ([Google Map](https://maps.app.goo.gl/pkbA2T2k6B4Qc3ci6), [Campus Map](https://pathway.ucsfmedicalcenter.org/images/190617_External_Route_Map_Mission_Bay_CMYK_NO_BLEED_REV9.pdf)):
+Algorithmic Biology Lab is in the Weill Neuroscience Building of the UCSF Mission Bay Campus ([Google Map](https://maps.app.goo.gl/pkbA2T2k6B4Qc3ci6), [Campus Map](https://pathway.ucsfmedicalcenter.org/images/190617_External_Route_Map_Mission_Bay_CMYK_NO_BLEED_REV9.pdf)):
 
 1651 4th St, Room 581F<br />
 Weill Neurosciences Building<br />

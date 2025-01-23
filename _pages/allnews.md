@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - News"
+title: "Algorithmic Biology Lab - News"
 layout: textlay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "Algorithmic Biology Lab at UCSF."
 sitemap: false
 permalink: /allnews.html
 ---
