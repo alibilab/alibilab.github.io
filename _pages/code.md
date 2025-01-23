@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Code"
+title: "Algorithmic Biology Lab - Code"
 layout: textlay
-excerpt: "Sanders Lab -- Code."
+excerpt: "Algorithmic Biology Lab -- Code."
 sitemap: false
 permalink: /code/
 ---
