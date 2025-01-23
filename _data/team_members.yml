@@ -28,21 +28,21 @@
   info: Postdoctoral Scholar at Colombia University
   url: sarwan
   group: 2
-  year: 2021-2024
+  # year: 2021-2024
 
 - name: Taslim Murad
   photo: taslim.jpg
   info: Postdoctoral Research Fellow at Washington University in St. Louis
   url: taslim
   group: 2
-  year: 2019-2024
+  # year: 2019-2024
 
 - name: Zara Tayebi
   photo: zara.jpg
   info: Lecturer at Georgia State University
   url: zara
   group: 2
-  year: 2020-2024
+  # year: 2020-2024
 
 # - name: Aparna Kumar
 #   photo: aparnakumar.jpg
