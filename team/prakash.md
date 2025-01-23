@@ -5,7 +5,7 @@ position: Ph.D. Candidate
 handle: pchourasia
 email: pchourasia1@student.gsu.edu
 github: pchourasia1
-scholar: https://scholar.google.com/citations?user=ZYi1fZgAAAAJ&hl=en
+scholar: https://scholar.google.com/citations?user=ZYi1fZgAAAAJ
 photo: prakash.jpg
 ---
 

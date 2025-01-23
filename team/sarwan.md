@@ -5,12 +5,12 @@ position: Ph.D. Candidate
 handle: sarwan
 email: sali85@student.gsu.edu
 github: sarwanpasha
-scholar: https://scholar.google.com/citations?user=9dtXSoAAAAAJ&hl=en
+scholar: https://scholar.google.com/citations?user=9dtXSoAAAAAJ
 photo: sarwan.jpg
 ---
 
 ### Overview
-Sarwan Ali is a passionate researcher currently pursuing a Ph.D. in Computer Science at Georgia State University, Atlanta, Georgia. His research interests lie in the areas of **Deep Learning**, **Machine Learning**, **Bioinformatics**, **Data Mining**, **Artificial Intelligence**, **Algorithms**, and **Combinatorial Optimization**. 
+Sarwan Ali is a passionate researcher and comppleted his Ph.D. in Computer Science at Georgia State University, Atlanta, Georgia. His research interests lie in the areas of **Deep Learning**, **Machine Learning**, **Bioinformatics**, **Data Mining**, **Artificial Intelligence**, **Algorithms**, and **Combinatorial Optimization**. 
 
 
 ---
