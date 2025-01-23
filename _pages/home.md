@@ -8,7 +8,7 @@ permalink: /
 
 # Welcome to the Algorithmic Biology Lab @ GSU
 
-![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab_logo_alibilab.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 At the **Algorithmic Biology Lab**, we combine cutting-edge computational techniques with biological insights to tackle some of the most pressing challenges in genomics, bioinformatics, health AI, and medical imaging. Our interdisciplinary team develops innovative algorithms, machine learning models, and data-driven approaches to understand the genetic and molecular basis of diseases, analyze biological sequences, and advance precision medicine.
 
@@ -16,26 +16,26 @@ At the **Algorithmic Biology Lab**, we combine cutting-edge computational techni
 
 Our research spans a wide range of topics at the intersection of computer science, biology, and healthcare. Here are some of our key focus areas:
 
-3. **Biological Sequence Analysis**
-We apply machine learning and deep learning techniques to analyze biological sequences, including proteins, viruses, and DNA. Our work includes sequence classification, feature extraction, and predictive modeling to identify biomarkers and therapeutic targets.
+1. **Biological Sequence Analysis:**
+We apply machine learning and deep learning techniques to analyze biological sequences, including proteins, viruses, and DNA. Our work includes developing novel embedding methods for sequence classification, feature extraction, and predictive modeling to identify biomarkers and therapeutic targets.
 
-1. **Genomics and Genome Analysis**
-We develop algorithms to study genome rearrangements, haplotyping, and the evolution of metabolic networks. Our work helps uncover the genetic basis of diseases and understand how genomic variations contribute to complex disorders like autism spectrum disorder (ASD).
-
-2. **Cancer Phylogenetics**
+2. **Cancer Phylogenetics:**
 Using single-cell sequencing data, we reconstruct the evolutionary history of tumors to identify key mutations and pathways driving cancer progression. This research aims to improve cancer diagnostics and personalized treatment strategies.
 
-4. **Health AI and Federated Learning**
-We leverage AI to analyze healthcare data, enabling predictive modeling and decision-making in a privacy-preserving manner. Our research in federated learning allows decentralized analysis of sensitive data across multiple institutions.
 
-5. **Computational Antibody Design**
+3. **Computational Antibody Design:**
 We use computational methods to develop pipeline for potential antigen targets, predict antigen-antibody interactions, and optimize antibody design. Our bioinformatics tools and pipelines help accelerate the discovery of new therapies for complex diseases.
 
-6. **Medical Imaging and Neuroimaging**
+4. **Medical Imaging and Neuroimaging:**
 We develop advanced machine learning models for analyzing medical and neuroimaging data, including MRI and CT scans. Our work includes:
 **Brain Age Estimation**: Predicting brain age from MRI data to study aging and neurodegenerative diseases.
 **Alzheimer's Disease Detection**: Early detection and interpretation of Alzheimer's disease using multimodal imaging data.
 **Tumor Analysis**: Quantifying the impact of brain tumors on brain age and identifying imaging biomarkers for cancer progression.
+
+
+6. **Health AI and Federated Learning:**
+We leverage AI to analyze healthcare data, enabling predictive modeling and decision-making in a privacy-preserving manner. Our research in federated learning allows decentralized analysis of sensitive data across multiple institutions.
+
 
 ---
 
