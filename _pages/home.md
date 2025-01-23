@@ -14,34 +14,32 @@ At the **Algorithmic Biology Lab**, we combine cutting-edge computational techni
 
 ---
 
-## Research Areas
-
 Our research spans a wide range of topics at the intersection of computer science, biology, and healthcare. Here are some of our key focus areas:
 
-### 1. **Genomics and Genome Analysis**
-We develop algorithms to study genome rearrangements, haplotyping, and the evolution of metabolic networks. Our work helps uncover the genetic basis of diseases and understand how genomic variations contribute to complex disorders like autism spectrum disorder (ASD).
-
-### 2. **Cancer Phylogenetics**
-Using single-cell sequencing data, we reconstruct the evolutionary history of tumors to identify key mutations and pathways driving cancer progression. This research aims to improve cancer diagnostics and personalized treatment strategies.
-
-### 3. **Biological Sequence Analysis**
+3. **Biological Sequence Analysis**
 We apply machine learning and deep learning techniques to analyze biological sequences, including proteins, viruses, and DNA. Our work includes sequence classification, feature extraction, and predictive modeling to identify biomarkers and therapeutic targets.
 
-### 4. **Health AI and Federated Learning**
+1. **Genomics and Genome Analysis**
+We develop algorithms to study genome rearrangements, haplotyping, and the evolution of metabolic networks. Our work helps uncover the genetic basis of diseases and understand how genomic variations contribute to complex disorders like autism spectrum disorder (ASD).
+
+2. **Cancer Phylogenetics**
+Using single-cell sequencing data, we reconstruct the evolutionary history of tumors to identify key mutations and pathways driving cancer progression. This research aims to improve cancer diagnostics and personalized treatment strategies.
+
+4. **Health AI and Federated Learning**
 We leverage AI to analyze healthcare data, enabling predictive modeling and decision-making in a privacy-preserving manner. Our research in federated learning allows decentralized analysis of sensitive data across multiple institutions.
 
-### 5. **Drug Discovery and Bioinformatics**
-We use computational methods to identify potential drug targets, predict drug interactions, and optimize drug design. Our bioinformatics tools and pipelines help accelerate the discovery of new therapies for complex diseases.
+5. **Computational Antibody Design**
+We use computational methods to develop pipeline for potential antigen targets, predict antigen-antibody interactions, and optimize antibody design. Our bioinformatics tools and pipelines help accelerate the discovery of new therapies for complex diseases.
 
-### 6. **Medical Imaging and Neuroimaging**
+6. **Medical Imaging and Neuroimaging**
 We develop advanced machine learning models for analyzing medical and neuroimaging data, including MRI and CT scans. Our work includes:
-- **Brain Age Estimation**: Predicting brain age from MRI data to study aging and neurodegenerative diseases.
-- **Alzheimer's Disease Detection**: Early detection and interpretation of Alzheimer's disease using multimodal imaging data.
-- **Tumor Analysis**: Quantifying the impact of brain tumors on brain age and identifying imaging biomarkers for cancer progression.
+**Brain Age Estimation**: Predicting brain age from MRI data to study aging and neurodegenerative diseases.
+**Alzheimer's Disease Detection**: Early detection and interpretation of Alzheimer's disease using multimodal imaging data.
+**Tumor Analysis**: Quantifying the impact of brain tumors on brain age and identifying imaging biomarkers for cancer progression.
 
 ---
 
-## Technologies and Methods
+### Technologies and Methods
 
 We employ a variety of advanced computational and experimental techniques, including:
 - **Whole-genome and whole-exome sequencing** for genetic analysis.
@@ -57,7 +55,7 @@ We employ a variety of advanced computational and experimental techniques, inclu
 We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/bernie-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard.
 
 ### Joining Algorithmic Biology Lab
-If you are interested in joining please go to the [recruitment](recruitment) page.
+If you are interested in joining please go to the [contact](contact) page.
 
 
 
