@@ -7,7 +7,7 @@ permalink: /team/
 ---
 
 # Team Members
-(Please click the name below for the lab memeber's profile)
+(Please click the name below for the lab member's profile)
 
 
 ---
@@ -171,7 +171,7 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %} -->
-
+<!-- 
 ---
 
 ## PsychCore Genomics Core
@@ -266,4 +266,4 @@ Please contact our lab manager, <a href="mailto:Clif.Duhn@ucsf.edu">Clif Duhn</a
 
 
 
-
+ -->

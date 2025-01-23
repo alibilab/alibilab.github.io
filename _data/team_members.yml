@@ -3,13 +3,6 @@
   info: Assistant Professor
   url: murraypatterson
   group: 0
-  
-- name: Sarwan Ali
-  photo: sarwan.jpg
-  info: Postdoctoral Scholar
-  url: sarwan
-  group: 1
-
 
 - name: Prakash Chourasia
   photo: prakash.jpg
@@ -17,17 +10,17 @@
   url: prakash
   group: 1
 
-- name: Nick Page
-  photo: nickpage.jpg
-  info: Graduate Student
-  url: nickpage
+- name: Avais Jan
+  photo: avais.jpg
+  info: Ph.D. Student
+  url: avais
   group: 1
 
-- name: Clif Duhn
-  photo: clifduhn.jpg
-  info: Laboratory Manager
-  url: clifduhn
-  group: 2
+- name: Mansoor Ahmed
+  photo: mansoor.jpg
+  info: Ph.D. Student
+  url: mansoor
+  group: 1
 
 
 - name: Sarwan Ali
@@ -36,8 +29,20 @@
   url: sarwan
   group: 2
   year: 2021-2024
-  current: Assistant Professor, School of Biosystem and Biomedical Science, Korea University
-  extlink: https://sarwanpasha.github.io/
+
+- name: Taslim Murad
+  photo: taslim.jpg
+  info: Postdoctoral Research Fellow at Washington University in St. Louis
+  url: taslim
+  group: 2
+  year: 2019-2024
+
+- name: Zara Tayebi
+  photo: zara.jpg
+  info: Lecturer at Georgia State University
+  url: zara
+  group: 2
+  year: 2020-2024
 
 # - name: Aparna Kumar
 #   photo: aparnakumar.jpg
