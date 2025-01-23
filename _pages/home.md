@@ -1,36 +1,65 @@
 ---
 title: "AliBiLab - Home"
 layout: homelay
-excerpt: "Algorithmic Biology Lab at UCSF."
+excerpt: "Algorithmic Biology Lab at Georgia State University."
 sitemap: false
 permalink: /
 ---
 
-# Welcome to Algorithmic Biology Lab @ GSU
-
+# Welcome to the Algorithmic Biology Lab @ GSU
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
+At the **Algorithmic Biology Lab**, we combine cutting-edge computational techniques with biological insights to tackle some of the most pressing challenges in genomics, bioinformatics, health AI, and medical imaging. Our interdisciplinary team develops innovative algorithms, machine learning models, and data-driven approaches to understand the genetic and molecular basis of diseases, analyze biological sequences, and advance precision medicine.
 
-The Algorithmic Biology Lab aims to identify the etiology of developmental disorders through the discovery of genetic risk factors. Over the past few years there has been rapid progress in identifying the genes that play a role in autism spectrum disorder (ASD). We aim to continue this progress, leverage these findings to build a more complete understanding of ASD, and to extend this approach to other human disorders, including congenital malformations.
+---
 
+## Research Areas
 
-There are five main areas of research:
+Our research spans a wide range of topics at the intersection of computer science, biology, and healthcare. Here are some of our key focus areas:
 
-1. **Gene discovery**: Genomic analysis of DNA using high-throughput sequencing to identify genes associated with human disorders
-2. **Understanding the noncoding genome**: Using whole-genome sequencing to identify the elements of the noncoding genome that contribute to ASD
-3. **The role of SCN2A in human disorders**: SCN2A mutations are one of the most common causes of ASD; we aim to understand how this risk is mediated with the view to developing therapeutics
-4. **Understanding neurodevelopment**: Leveraging functional genomic data to understand physiological brain development and the pathology associated with neuropsychiatric disorders
-5. **Sex bias in ASD**: Identifying genes and gene networks that lead to the preponderance of males diagnosed with ASD
+### 1. **Genomics and Genome Analysis**
+We develop algorithms to study genome rearrangements, haplotyping, and the evolution of metabolic networks. Our work helps uncover the genetic basis of diseases and understand how genomic variations contribute to complex disorders like autism spectrum disorder (ASD).
 
-### Technologies and methods
-The Algorithmic Biology Lab is primarily a bioinformatic group that uses a wide range of genomic, bioinformatic, and statistical methods including: whole-exome sequencing, whole-genome sequencing, de novo mutation detection, RNA-Seq, and ChIP-Seq.
+### 2. **Cancer Phylogenetics**
+Using single-cell sequencing data, we reconstruct the evolutionary history of tumors to identify key mutations and pathways driving cancer progression. This research aims to improve cancer diagnostics and personalized treatment strategies.
+
+### 3. **Biological Sequence Analysis**
+We apply machine learning and deep learning techniques to analyze biological sequences, including proteins, viruses, and DNA. Our work includes sequence classification, feature extraction, and predictive modeling to identify biomarkers and therapeutic targets.
+
+### 4. **Health AI and Federated Learning**
+We leverage AI to analyze healthcare data, enabling predictive modeling and decision-making in a privacy-preserving manner. Our research in federated learning allows decentralized analysis of sensitive data across multiple institutions.
+
+### 5. **Drug Discovery and Bioinformatics**
+We use computational methods to identify potential drug targets, predict drug interactions, and optimize drug design. Our bioinformatics tools and pipelines help accelerate the discovery of new therapies for complex diseases.
+
+### 6. **Medical Imaging and Neuroimaging**
+We develop advanced machine learning models for analyzing medical and neuroimaging data, including MRI and CT scans. Our work includes:
+- **Brain Age Estimation**: Predicting brain age from MRI data to study aging and neurodegenerative diseases.
+- **Alzheimer's Disease Detection**: Early detection and interpretation of Alzheimer's disease using multimodal imaging data.
+- **Tumor Analysis**: Quantifying the impact of brain tumors on brain age and identifying imaging biomarkers for cancer progression.
+
+---
+
+## Technologies and Methods
+
+We employ a variety of advanced computational and experimental techniques, including:
+- **Whole-genome and whole-exome sequencing** for genetic analysis.
+- **Machine learning and deep learning** for predictive modeling, sequence analysis, and medical imaging.
+- **Federated learning** for decentralized and privacy-preserving data analysis.
+- **Bioinformatics tools** such as BLAST, NCBI Entrez, and MEGA for sequence alignment and evolutionary analysis.
+- **Medical imaging tools** for MRI and CT scan analysis, including 3D CNN, ResNet, and Vision Transformers.
+
+---
+
 
 ### Collaborators
 We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/bernie-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard.
 
 ### Joining Algorithmic Biology Lab
 If you are interested in joining please go to the [recruitment](recruitment) page.
+
+
 
 <!-- 
 ### Funding

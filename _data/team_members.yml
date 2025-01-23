@@ -46,7 +46,7 @@
 - name: Zahra Tayebi
   photo: zahra.jpg
   info: Lecturer at Georgia State University
-  url: zahra
+  # url: zahra
   group: 2
   # year: 2020-2024
 
