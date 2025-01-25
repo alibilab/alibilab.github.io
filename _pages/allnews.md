@@ -1,7 +1,7 @@
 ---
 title: "Algorithmic Biology Lab - News"
 layout: textlay
-excerpt: "Algorithmic Biology Lab at UCSF."
+excerpt: "Algorithmic Biology Lab at GSU."
 sitemap: false
 permalink: /allnews.html
 ---
