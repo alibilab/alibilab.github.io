@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic Biology Lab - Contact"
+title: "AliBiLab - Contact"
 layout: textlay
 excerpt: "Contact."
 sitemap: false

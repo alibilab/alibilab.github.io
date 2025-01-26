@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic Biology Lab - Team"
+title: "AliBiLab - Team"
 layout: gridlay
 excerpt: "Algorithmic Biology Lab: Team members"
 sitemap: false
