@@ -1,13 +1,3 @@
-- title: "An alignment problem"
-  image: 
-  description: 
-  authors: Emma L. McDaniel, Armin R. Mikler, Chetan Tiwari, Murray Patterson
-  link:
-    url: https://doi.org/10.48550/arXiv.2411.08792
-    display: McDaniel et al. ArXiv (2024)
-  highlight: 1
-  news2: 
-
 - title: "Molecular sequence classification using efficient kernel based embedding"
   image: 
   description: 
@@ -15,6 +5,116 @@
   link:
     url: https://doi.org/10.1016/j.ins.2024.121100
     display: Ali et al. Information Sciences (2024)
+  highlight: 1
+  news2: 
+
+- title: "PseAAC2Vec protein encoding for TCR protein sequence classification"
+  image: 
+  description: 
+  authors: Zahra Tayebi, Sarwan Ali, Taslim Murad, Imdadullah Khan, Murray Patterson
+  link:
+    url: https://doi.org/10.1016/j.compbiomed.2024.107956
+    display: Tayebi et al. Computers in Biology and Medicine (2024)
+  highlight: 1
+  news2: 
+
+- title: "Spike2CGR: An efficient method for spike sequence classification using chaos game representation"
+  image: 
+  description: 
+  authors: Taslim Murad*, Sarwan Ali*, Imdad Ullah Khan, Murray Patterson
+  link:
+    url: https://doi.org/10.1007/s10994-023-06371-4
+    display: Murad et al. Machine Learning (2023)
+  highlight: 1
+  news2: 
+
+- title: "Benchmarking machine learning robustness in Covid-19 genome sequence classification"
+  image: 
+  description: 
+  authors: Sarwan Ali, Bikram Sahoo, Alexander Zelikovsky, Pin-Yu Chen, Murray Patterson
+  link:
+    url: https://doi.org/10.1038/s41598-023-31368-3
+    display: Ali et al. Scientific Reports (2023)
+  highlight: 1
+  news2: 
+
+- title: "Effective Clustering for Single Cell Sequencing Cancer Data"
+  image: 
+  description: 
+  authors: Simone Ciccolella*, Murray Patterson*, Paola Bonizzoni, Gianluca Della Vedova
+  link:
+    url: https://doi.org/10.1109/JBHI.2021.3081380
+    display: Ciccolella et al. IEEE Journal of Biomedical and Health Informatics (2021)
+  highlight: 1
+  news2: 
+
+- title: "WhatsHap: Weighted haplotype assembly for future-generation sequencing reads"
+  image: 
+  description: 
+  authors: Murray Patterson*, Tobias Marschall*, Nadia Pisanti, Leo van Iersel, Leen Stougie, Gunnar W. Klau, Alexander Schoenhuth
+  link:
+    url: https://doi.org/10.1089/cmb.2014.0157
+    display: Patterson et al. Journal of Computational Biology (2015)
+  highlight: 1
+  news2: 
+
+- title: "From alpha to zeta: Identifying variants and subtypes of SARS-CoV-2 via clustering"
+  image: 
+  description: 
+  authors: Andrew Melnyk, Fatemeh Mohebbi, Sergey Knyazev, Bikram Sahoo, Roya Hosseini, Pavel Skums, Alex Zelikovsky, Murray Patterson
+  link:
+    url: https://doi.org/10.1089/cmb.2021.0302
+    display: Melnyk et al. Journal of Computational Biology (2021)
+  highlight: 1
+  news2: 
+
+- title: "Efficient approximate kernel based spike sequence classification"
+  image: 
+  description: 
+  authors: Sarwan Ali, Bikram Sahoo, Muhammad Asad Khan, Alexander Zelikovsky, Imdad Ullah Khan, Murray Patterson
+  link:
+    url: https://doi.org/10.1109/TCBB.2022.3206284
+    display: Ali et al. Transactions on Computational Biology and Bioinformatics (2022)
+  highlight: 1
+  news2: 
+
+- title: "ViralVectors: Compact and scalable alignment-free virome feature generation"
+  image: 
+  description: 
+  authors: Sarwan Ali, Prakash Chourasia, Zahra Tayebi, Babatunde Bello, Murray Patterson
+  link:
+    url: https://doi.org/10.1007/s11517-023-02837-8
+    display: Ali et al. Medical & Biological Engineering & Computing (2023)
+  highlight: 1
+  news2: 
+
+- title: "Exploring the potential of GANs in biological sequence analysis"
+  image: 
+  description: 
+  authors: Taslim Murad, Sarwan Ali, Murray Patterson
+  link:
+    url: https://doi.org/10.3390/biology12060854
+    display: Murad et al. MDPI Biology (2023)
+  highlight: 1
+  news2: 
+
+- title: "Efficient analysis of COVID-19 clinical data using machine learning models"
+  image: 
+  description: 
+  authors: Sarwan Ali, Yijing Zhou, Murray Patterson
+  link:
+    url: https://doi.org/10.1007/s11517-022-02570-8
+    display: Ali et al. Medical & Biological Engineering & Computing (2021)
+  highlight: 1
+  news2: 
+
+- title: "Simpler and faster development of tumor phylogeny pipelines"
+  image: 
+  description: 
+  authors: Sarwan Ali, Simone Ciccolella, Lorenzo Lucarella, Gianluca Della Vedova, Murray Patterson
+  link:
+    url: https://doi.org/10.1089/cmb.2021.0271
+    display: Ali et al. Journal of Computational Biology (2021)
   highlight: 1
   news2: 
 
@@ -28,12 +128,72 @@
   highlight: 1
   news2: 
 
-- title: "PseAAC2Vec protein encoding for TCR protein sequence classification"
+- title: "When protein structure embedding meets large language models"
   image: 
   description: 
-  authors: Zahra Tayebi, Sarwan Ali, Taslim Murad, Imdadullah Khan, Murray Patterson
+  authors: Sarwan Ali, Prakash Chourasia, Murray Patterson
   link:
-    url: https://doi.org/10.1016/j.compbiomed.2024.107956
-    display: Tayebi et al. Computers in Biology and Medicine (2024)
+    url: https://doi.org/10.3390/genes15010025
+    display: Ali et al. MDPI Genes (2023)
+  highlight: 1
+  news2: 
+
+- title: "Improving ISOMAP efficiency with RKS: A comparative study with t-distributed neighbor embedding on protein sequences"
+  image: 
+  description: 
+  authors: Sarwan Ali, Murray Patterson
+  link:
+    url: https://doi.org/10.3390/j6040038
+    display: Ali et al. MDPI J (2023)
+  highlight: 1
+  news2: 
+
+- title: "Assessing the resilience of machine learning classification algorithms on SARS-CoV-2 genome sequences generated with long-read specific errors"
+  image: 
+  description: 
+  authors: Bikram Sahoo*, Sarwan Ali, Pin-Yu Chen, Murray Patterson, Alexander Zelikovsky
+  link:
+    url: https://doi.org/10.3390/biom13060934
+    display: Sahoo et al. Biomolecules (2023)
+  highlight: 1
+  news2: 
+
+- title: "Reads2Vec: Efficient embedding of raw high-throughput sequencing reads data"
+  image: 
+  description: 
+  authors: Prakash Chourasia, Sarwan Ali, Simone Ciccolella, Gianluca Della Vedova, Murray Patterson
+  link:
+    url: https://doi.org/10.1089/cmb.2022.0424
+    display: Chourasia et al. Journal of Computational Biology (2022)
+  highlight: 1
+  news2: 
+
+- title: "Characterizing SARS-CoV-2 spike sequences based on geographical location"
+  image: 
+  description: 
+  authors: Sarwan Ali, Babatunde Bello, Zahra Tayebi, Murray Patterson
+  link:
+    url: https://doi.org/10.1089/cmb.2022.0391
+    display: Ali et al. Journal of Computational Biology (2022)
+  highlight: 1
+  news2: 
+
+- title: "PWM2Vec: An efficient embedding approach for viral host specification from coronavirus spike sequences"
+  image: 
+  description: 
+  authors: Sarwan Ali, Babatunde Bello, Prakash Chourasia, Ria Thazhe Punathil, Yijing Zhou, Murray Patterson
+  link:
+    url: https://doi.org/10.3390/biology11030418
+    display: Ali et al. MDPI Biology (2022)
+  highlight: 1
+  news2: 
+
+- title: "Robust representation and efficient feature selection allows for effective clustering of SARS-CoV-2 variants"
+  image: 
+  description: 
+  authors: Zahra Tayebi, Sarwan Ali, Murray Patterson
+  link:
+    url: https://doi.org/10.3390/a14120348
+    display: Tayebi et al. Algorithms (2021)
   highlight: 1
   news2: 
