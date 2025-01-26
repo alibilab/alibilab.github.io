@@ -52,11 +52,11 @@ We employ a variety of advanced computational and experimental techniques, inclu
 
 
 ### Collaborators
-We work with closely with numerous collaborators, including the:
+We work with closely with numerous collaborators, including:
 
-- Gianluca Della Vedova, Paola Bonizzoni and Simone Ciccolella [University of Milano-Bicocca](https://algolab.eu/ )
-- [Imdad Ullah Khan](https://web.lums.edu.pk/~imdad/research.html), [Muhammad Shaoib](https://lums.edu.pk/lums_employee/7665) and [Khurram Bashir](https://lums.edu.pk/lums_employee/7494) at [LUMS](https://lums.edu.pk/)
-- [S. Ashley Byun](https://www.fairfield.edu/faculty-and-staff/profile/?username=sbyun) and [Danushka Bandara](https://www.fairfield.edu/faculty-and-staff/profile/?username=dbandara)
+- [Gianluca Della Vedova, Paola Bonizzoni and Simone Ciccolella](https://algolab.eu/) at [University of Milano-Bicocca, Italy](https://en.unimib.it/)
+- [Imdad Ullah Khan](https://web.lums.edu.pk/~imdad/research.html), [Muhammad Shaoib](https://lums.edu.pk/lums_employee/7665) and [Khurram Bashir](https://lums.edu.pk/lums_employee/7494) at [LUMS, Pakistan](https://lums.edu.pk/)
+- [S. Ashley Byun](https://www.fairfield.edu/faculty-and-staff/profile/?username=sbyun) and [Danushka Bandara](https://www.fairfield.edu/faculty-and-staff/profile/?username=dbandara) at [Fairfield University, Connecticut](https://www.fairfield.edu/)
 
 
 ### Joining Algorithmic Biology Lab
