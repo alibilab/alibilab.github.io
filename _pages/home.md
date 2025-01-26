@@ -56,7 +56,7 @@ We work with closely with numerous collaborators, including the:
 
 
 ### Joining Algorithmic Biology Lab
-If you are interested in joining, please go to the [contact](contact) or [team](team) page.
+If you are interested in joining or collaborating, please go to the [contact](contact) or [team](team) page.
 
 
 

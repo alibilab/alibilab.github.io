@@ -5,7 +5,7 @@ position: Assistant Professor
 handle: murraypatterson
 email: mpatterson@gsu.edu
 github: murraypatterson
-scholar: https://scholar.google.ca/citations?user=49aQ7scAAAAJ&hl=en
+scholar: https://scholar.google.ca/citations?user=49aQ7scAAAAJ
 photo: murraypatterson.jpg
 ---
 
