@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Mansoor Ahmed
-position: Ph.D. Student
+position: Grad Student
 handle: 
 email: mahmed76@student.gsu.edu
 github: mansoor181
@@ -10,15 +10,15 @@ photo: mansoor.jpg
 ---
 
 ### Overview
-Mansoor Ahmed is a Ph.D. student in the Department of Computer Science at Georgia State University. His research focuses on **Machine Learning**, **Deep Learning**, **Neuroimaging**, and **Bioinformatics**. He specializes in developing predictive models for neuroscience applications, including brain age estimation, Alzheimer's disease detection, and multi-site MRI harmonization.
+Mansoor Ahmed is a Grad student in the Department of Computer Science at Georgia State University. His research focuses on **Machine Learning**, **Deep Learning**, **Computational Biology**, and **Image Processing**. He specializes in developing models for Biomolecule design such as antibodies, peptides, and enzymes. 
 
 
 ---
 
 ### Research Interests
-- **Neuroimaging**: Developing machine learning models for brain age estimation, Alzheimer's disease detection, and multi-site MRI harmonization.
 - **Bioinformatics**: Designing computational pipelines for antibody-antigen interaction prediction and protein sequence analysis.
-- **Deep Learning**: Applying deep learning techniques to analyze multimodal MRI and fMRI data for disorder classification and predictive modeling.
+- **Neuroimaging**: Developing machine learning models for brain age estimation, Alzheimer's disease detection, and multi-site MRI harmonization.
+- **Deep Learning**: Developing generative models such as Discrete Flow and Diffusion models for low-data regimes and learning representations for proteins via language modeling and graph neural networks.
 - **Federated Learning**: Developing decentralized algorithms for privacy-preserving analysis of healthcare data.
 
 ---
@@ -27,7 +27,7 @@ Mansoor Ahmed is a Ph.D. student in the Department of Computer Science at Georgi
   *Georgia State University, Atlanta, GA, USA*  
 -  *Jan 2025 – Present*  
   Course: *Advanced Machine Learning (CSC 8850)*  
--  *Sep 2024 – Dec 2024*  
+-  *Jan 2025 – Dec 2025*  
   Course: *Spatial and Scientific Databases (CSC 8713)*  
 -  *Lahore University of Management Sciences, Lahore, Pakistan*  
   *Sep 2022 – Dec 2022*  
@@ -48,10 +48,3 @@ Mansoor Ahmed is a Ph.D. student in the Department of Computer Science at Georgi
   - Integrated volumetric measurements from T1-weighted MRIs to estimate brain age.
   - Achieved an MAE of 3.25 years.
 
-
----
-
-### Education
-- **Ph.D. in Computer Science**  
-  *Georgia State University, Atlanta, GA, USA*  
-  *Sep 2024 – Present*  
